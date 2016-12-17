@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "270139860611",
+    "firebase_url": "https://newgcm-e9bfa.firebaseio.com",
+    "project_id": "newgcm-e9bfa",
+    "storage_bucket": "newgcm-e9bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270139860611:android:0d679ae25912a26c",
+        "android_client_info": {
+          "package_name": "com.prolificinteractive.materialcalendarview.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270139860611-uga83mm3vvq75el514ffdkgar6rcbi9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxek_kjiygucySqs2yXSYDAPn6cVIT4HI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270139860611:android:405c5ae47536a5ae",
+        "android_client_info": {
+          "package_name": "com.example.avjindersinghsekhon.minimaltodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270139860611-uga83mm3vvq75el514ffdkgar6rcbi9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxek_kjiygucySqs2yXSYDAPn6cVIT4HI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270139860611:android:cd4c882a6246b2e3",
+        "android_client_info": {
+          "package_name": "com.avjindersinghsekhon.minimaltodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270139860611-uga83mm3vvq75el514ffdkgar6rcbi9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxek_kjiygucySqs2yXSYDAPn6cVIT4HI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
